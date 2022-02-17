@@ -3,3 +3,5 @@ colorlog
 sqlalchemy>=1.4
 alembic
 asyncpg
+aiohttp
+lxml
